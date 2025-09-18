@@ -1,0 +1,11 @@
+[package]
+name = "time-calculator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+mysql = "^26.0.1"
+chrono = "0.4"
+dotenv = "0.15"
+anyhow = "1.0"
+thiserror = "2.0.16"
